@@ -1,5 +1,5 @@
-![stars_badge](https://img.shields.io/github/stars/J1A-T13N?affiliations=OWNER&label=Total%20Stars)
-![followers_badge](https://img.shields.io/github/followers/J1A-T13N?label=Followers)
+![stars_badge](https://img.shields.io/github/stars/jayx1011?affiliations=OWNER&label=Total%20Stars)
+![followers_badge](https://img.shields.io/github/followers/jayx1011?label=Followers)
 [![Community Forum][community_forum_shield]][community_forum]
 [![Buy me a coffee][buy_me_a_coffee_shield]][buy_me_a_coffee]
 
@@ -12,7 +12,7 @@
 
 | Stats | About myself |
 | :--------: | -------- |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=J1A-T13N&theme=dark) | Jay is a telecommunications engineering.<br>And currently learning Program trading.<br>His work focuses building school ethernet and wireless network.<br>Currently building my own intelligent home system of 「Home Assistant」. |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=jayx1011&theme=dark) | Jay is a telecommunications engineering.<br>And currently learning Program trading.<br>His work focuses building school ethernet and wireless network.<br>Currently building my own intelligent home system of 「Home Assistant」. |
 
 ## Custom components
 
@@ -24,14 +24,14 @@
 
 | Name | Change | Last PR |
 | :-----: | :-----: | :-----: |
-| [Earthquake early warning notify system](https://github.com/watermelon1024/EEW) | LINE BOT Flex Template | [2024/06/11](https://github.com/watermelon1024/EEW/commits?author=J1A-T13N) |
+| [Earthquake early warning notify system](https://github.com/watermelon1024/EEW) | LINE BOT Flex Template | [2024/06/11](https://github.com/watermelon1024/EEW/commits?author=jayx1011) |
 
 <a href="https://www.buymeacoffee.com/j19t13n" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 ## Language
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx1011&langs_count=8&theme=radical&locale=cn" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx1011&langs_count=8&theme=radical&locale=en" /><br />
 
 <br>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
