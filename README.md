@@ -19,7 +19,7 @@
 | Name | Stars | Latest Version | HACS support | Last commit |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [Taiwan Real-time Earthquake Monitoring for HA](https://github.com/gaojiafamily/ha-trem2)| ![stars_badge](https://img.shields.io/github/stars/gaojiafamily/ha-trem2?label=) | [![release_badge](https://img.shields.io/github/v/release/gaojiafamily/ha-trem2?label=)](https://github.com/gaojiafamily/ha-trem2/releases/latest) | [![HACS Default][hacs_custom_shield]][hacs_custom] | [![Last commit](https://img.shields.io/github/last-commit/gaojiafamily/ha-trem2?label=)](https://github.com/gaojiafamily/ha-trem2) |
-
+![preview](https://raw.githubusercontent.com/jayx1011/jayx1011/main/repositories/ha-trem2/preview.png)
 ## Contribute repository
 
 | Name | Change | Last PR |
