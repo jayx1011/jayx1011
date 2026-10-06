@@ -14,21 +14,6 @@
 | :--------: | -------- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=jayx1011&theme=dark) | Jay is a telecommunications engineering.<br>And currently learning Program trading.<br>His work focuses building school ethernet and wireless network.<br>Currently building my own intelligent home system of 「Home Assistant」. |
 
-## Custom components
-
-| Name | Stars | Latest Version | HACS support | Last commit |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-| [Taiwan Real-time Earthquake Monitoring for HA](https://github.com/gaojiafamily/ha-trem2)| ![stars_badge](https://img.shields.io/github/stars/gaojiafamily/ha-trem2?label=) | [![release_badge](https://img.shields.io/github/v/release/gaojiafamily/ha-trem2?label=)](https://github.com/gaojiafamily/ha-trem2/releases/latest) | [![HACS Default][hacs_custom_shield]][hacs_custom] | [![Last commit](https://img.shields.io/github/last-commit/gaojiafamily/ha-trem2?label=)](https://github.com/gaojiafamily/ha-trem2) |
-![preview](https://raw.githubusercontent.com/jayx1011/jayx1011/refs/heads/main/repositories/ha-trem2/preview.png)
-## Contribute repository
-
-| Name | Change | Last PR |
-| :-----: | :-----: | :-----: |
-| [Earthquake early warning notify system](https://github.com/watermelon1024/EEW) | LINE BOT Flex Template | [2024/06/11](https://github.com/watermelon1024/EEW/commits?author=jayx1011) |
-
-<a href="https://www.buymeacoffee.com/j19t13n" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-
 ## Language
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx1011&langs_count=8&theme=radical&locale=en" /><br />
